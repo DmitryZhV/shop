@@ -1,0 +1,3 @@
+shop/settings.py
+db.sqlite3
+shop/__pycache__/
